@@ -1,0 +1,15 @@
+D:\A Wpf Projects\POWER\POWER\bin\Debug\net7.0\POWER.exe
+D:\A Wpf Projects\POWER\POWER\bin\Debug\net7.0\POWER.deps.json
+D:\A Wpf Projects\POWER\POWER\bin\Debug\net7.0\POWER.runtimeconfig.json
+D:\A Wpf Projects\POWER\POWER\bin\Debug\net7.0\POWER.dll
+D:\A Wpf Projects\POWER\POWER\bin\Debug\net7.0\POWER.pdb
+D:\A Wpf Projects\POWER\POWER\obj\Debug\net7.0\POWER.csproj.AssemblyReference.cache
+D:\A Wpf Projects\POWER\POWER\obj\Debug\net7.0\POWER.GeneratedMSBuildEditorConfig.editorconfig
+D:\A Wpf Projects\POWER\POWER\obj\Debug\net7.0\POWER.AssemblyInfoInputs.cache
+D:\A Wpf Projects\POWER\POWER\obj\Debug\net7.0\POWER.AssemblyInfo.cs
+D:\A Wpf Projects\POWER\POWER\obj\Debug\net7.0\POWER.csproj.CoreCompileInputs.cache
+D:\A Wpf Projects\POWER\POWER\obj\Debug\net7.0\POWER.dll
+D:\A Wpf Projects\POWER\POWER\obj\Debug\net7.0\refint\POWER.dll
+D:\A Wpf Projects\POWER\POWER\obj\Debug\net7.0\POWER.pdb
+D:\A Wpf Projects\POWER\POWER\obj\Debug\net7.0\POWER.genruntimeconfig.cache
+D:\A Wpf Projects\POWER\POWER\obj\Debug\net7.0\ref\POWER.dll
